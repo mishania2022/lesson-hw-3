@@ -1,0 +1,53 @@
+    .thrivetalk{
+        height: 607px;    
+        background: rgba(98, 208, 223, 1);
+        }
+    .thrivetalk__container{
+        font-size: 0;
+        padding-left: 178px;
+    }
+    
+    .thrivetalk__discription{
+        display: inline-block;
+        width: calc(100% - 530px);        
+        padding-top: 153px;
+        vertical-align: top;
+    }
+    
+    .thrivetalk__title{
+        
+        width: 223px;
+        height: 51px;
+        font-family: Larsseit;
+        font-size: 36px;
+        line-height: 27px;
+        letter-spacing: -0.006em;
+        color: #FFFFFF;
+
+    }
+    .thrivetalk__text{
+        
+        width: 555px;
+        height: 235px;
+        font-family: Larsseit;
+        font-size: 24px;
+        line-height: 35px;
+        color: #FFFFFF;
+        padding-top: 75px;
+
+    }
+    .thrivetalk__image{
+        display: inline-block;
+        height: 607px;
+        width: 525px;
+        border-radius: 0px;
+        background-image: url(../images/woman.png);
+        background-repeat: no-repeat;
+        background-position-y: center;
+    }
+    .thrivetalk__span{
+        font-family: Larsseit;
+        font-size: 20px;
+        line-height: 29,3px;
+        color: #FFFFFF;
+    }
