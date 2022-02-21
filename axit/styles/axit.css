@@ -1,0 +1,119 @@
+.axit{
+    height: 640px;
+    background-color: white;
+}
+.axit__container{
+    width: 1170px;
+    padding-top: 100px;
+    font-size: 0;
+    
+    
+}
+.block-tabs{
+    height: 40px;
+    font-size: 0;
+    
+}
+.axit__tab-item{
+    display: inline-block;
+    width: 203px;
+    height: 40px;
+    padding-top: 10px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;    
+    text-align: center;
+    text-transform: uppercase;
+    color: #333333;    
+    border-bottom: 1px solid #C6CBCD;      
+    border-radius: 5px 5px 0px 0px;
+        
+}
+span:first-child{
+    border-top: 1px solid #C6CBCD;   
+    border-left: 1px solid #C6CBCD; 
+    border-right: 1px solid #C6CBCD;  
+    border-radius: 5px 5px 0px 0px;
+    border-bottom: 0px;
+    
+}
+span:last-child{
+    display: inline-block;
+    width: calc(100% - 609px);
+    height: 40px;
+    border-bottom: 1px solid #C6CBCD;      
+    border-radius: 5px 5px 5px 0px;
+    color: white;   
+
+}
+
+a{
+    text-decoration: none;
+    color: #333333;
+}
+.axit__block{    
+    text-align: justify;
+    font-size: 0;
+    border-bottom: 1px solid #C6CBCD;   
+    border-left: 1px solid #C6CBCD; 
+    border-right: 1px solid #C6CBCD; 
+}
+
+.axit__discription{
+    display: inline-block;
+    width: calc(100% - 470px);
+    vertical-align: top;
+    padding-left: 100px;
+    
+}
+
+.axit__image{
+    background-image: url(../images/freedom.png);
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 470px; 
+    display: inline-block;   
+}
+button{
+    background-color:rgba(236, 121, 121, 1) ; 
+    width: 270px;
+    height: 58px;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+.axit__title{
+    font-family: Open Sans;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 41px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+
+}
+.axit__text{
+    height: 210px;
+    width: 570px;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left; 
+    margin-top: 27px;  
+
+}
+
+

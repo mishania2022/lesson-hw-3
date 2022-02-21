@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+   background-color: rgba(229, 229, 229, 1);
+   font-family: Raleway, Open Sans;
+}
+.container{
+    max-width: 1510px;
+    min-width: 1170px;
+    margin: 0 auto;
+}
