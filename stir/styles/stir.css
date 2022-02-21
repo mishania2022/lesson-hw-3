@@ -1,0 +1,51 @@
+.stir{
+    height: 620px;
+    background-color:rgba(25, 25, 25, 1)
+
+}
+
+.stir__container{
+    max-width: 1350px;
+    margin-top: 50px;
+    padding-top: 30px;
+       
+}
+.block{
+    width: 410px;
+    height: 560px;
+    padding-top: 38px;
+    display: inline-block;
+    margin-right: 56px;
+    text-align: center;
+    vertical-align: middle;
+}
+.block:first-child{
+    background-image: url(../images/pet.png);
+}
+.block:nth-child(2){
+    background-image: url(../images/kaktus.png);
+    
+}
+.block:last-child{
+    background-image: url(../images/negr.png);
+    margin-right: 0px;
+}
+.block__item{
+    display: inline-block;
+    padding-top: 200px;
+    width: 363px;
+    height: 483px;
+    border: 2px solid #FFFFFF;
+    border-radius: 3.99744px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 64px;
+    line-height: 68px;
+    text-align: center;
+    color: #FFFFFF;
+    letter-spacing: -1px;
+}
+.block__item_middle{
+    padding-top: 160px;
+}

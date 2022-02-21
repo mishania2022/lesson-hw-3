@@ -1,0 +1,14 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+
+body{
+    font-family: Roboto, Sans-serif;
+}
+.container{
+    margin: 0 auto;
+    width: 1440px;
+    
+}
+
+
